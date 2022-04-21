@@ -1,5 +1,5 @@
 package calculadora;
-import java.util.Scanner; // Importación de la clase Scanner.
+import java.util.Scanner; // Importación de la clase.
  
 public class TestCalculadora{
   public static void main(String[] args) {
